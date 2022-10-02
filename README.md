@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Lakshay Mittal
 
-### | Instagram | LinkedIn | Twitter | - mittallakshayy
+### | Instagram | LinkedIn | Twitter |  mittallakshayy
 
 I love building new things and collaborating with new people!
 
