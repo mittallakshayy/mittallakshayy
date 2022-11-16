@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshay</h1>
-<h3 align="center">A passionate Full Stack Web Engineer from India. I strongly believe in "mentor and be mentored" attitude. Such an approach towards my career galvanizes me to collaborate with experienced and upcoming Devs.</h3>
+<h3 align="center">A passionate Full Stack Web Engineer from India. I strongly believe in "mentor and be mentored" attitude. This approach galvanizes me to collaborate with experienced and upcoming Devs.</h3>
 
 - 🌱 I’m currently learning **how to build enterprise applications that can scale.**
 
